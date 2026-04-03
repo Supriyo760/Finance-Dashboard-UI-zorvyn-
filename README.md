@@ -50,5 +50,5 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    ```
 5. Your terminal will present a `localhost` URL (default is usually `http://localhost:5173/`). Open this in your browser to interact with the dashboard!
 
-## 💡 Notes
+## Notes
 - Data is securely persisted strictly to your browser's `localStorage`. If you desire to wipe the data or test the initial mock loading sequence, simply trigger a clear on your browser's Application/Local Storage cache, or manually delete elements using the `Admin` role options.
